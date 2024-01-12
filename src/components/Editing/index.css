@@ -1,0 +1,82 @@
+.background-image {
+  background-image: url('https://img.freepik.com/free-photo/pens-near-notebook-camera-earphones-papers-keyboard_23-2148037067.jpg?w=996&t=st=1704984526~exp=1704985126~hmac=12c5d381320b5ca28402432942906f95a0dbfb17de550a6d835ab01f79755b99');
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.Lobster {
+  font-family: 'Lobster';
+}
+.Caveat {
+  font-family: 'Caveat';
+}
+.Monoton {
+  font-family: 'Monoton';
+}
+.PlayfairDisplaySC {
+  font-family: 'Playfair Display SC';
+}
+.color {
+  color: #ffffff;
+}
+.button-flexing {
+  display: flex;
+}
+.Calibri {
+  font-family: 'calibri';
+}
+.blue {
+  color: blue;
+}
+.gray {
+  color: gray;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.pink {
+  color: pink;
+}
+
+.background-color {
+  background-color: transparent;
+}
+.Family-color {
+  color: aqua;
+}
+.Text-color {
+  color: blueviolet;
+}
+.font-sizing {
+  color: chocolate;
+}
+.Form-displaying {
+  display: flex;
+  flex-direction: column;
+}
+.button-styling {
+  height: 32px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: blue;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-left: 150px;
+}
+.combining-both {
+  display: flex;
+}
+.margining {
+  margin-left: 50px;
+}
+.top-margin {
+  margin-top: 30px;
+}
